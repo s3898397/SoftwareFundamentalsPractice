@@ -7,3 +7,29 @@ Would you like to hear a joke?
 Alright, three men walked into a bar. The first man was a pirate. The second man was a black pirate and the third man was a bird. The black pirate said the pirate that he was thirsty. This made the pirate order a mug of beer for his lassy. But the bird repeated his order making them order two drinks.
 
 And I can't be bothered thinking any more. 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The project Managenement triangle is a concept on project management that tells us about the quality of the product.
+
+Scope is the functional elements that make up the project deliverables
+Time is the time allocated to produce these deliverables.
+Cost is the amount of money which is required to implement the project.
+
+If you increase one of them, the other three elements will be required to be adjusted.
+For example, if you increase the scope, you must allocate more money and time to increase the quality of the product.
+
+The disadvantages of waterfall are that we cannot easily transition back to the previous stages since the project stages were so large.
+
+1. Individuals and Interactions rather than processes and tools.
+	- Team work is dream work.
+2. Development of working software
+	- Software delivery is more prioritized than documentation.
+3. Collaboration with the customer or client.
+	- Communication with customer for their wants is key. And clarification for customer is key
+4. Quickly Responding to change.
+	- Small projects allow us to be able to iterate, and change easier.
+
+Skipped
+
+The advantages of agility are that we have increase product quality due to to prioritization of teamwork, customer communication. But we also have increased cost.
